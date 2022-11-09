@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrajwalNa
 - 👀 I’m interested in Cybersecurity and creating interesting programs bonus if they are a bit challenging. My hobbies include reading (and sometimes writing), gaming, watching anime reading manga/manhwa
-- 🌱 I’m currently pursuing Bachelor's in Cybersecurity
+- 🌱 I’m currently pursuing Bachelor's in Cybersecurity at Sheridan College, Oakville ON, Canada
 - 📫 How to reach me, email: prajwalnautiyal2003@gmail.com
 
 <!---
